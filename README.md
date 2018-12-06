@@ -1,6 +1,6 @@
 # Computer Serial
 
-This code is associated with my [Advent Calendar 2018 Project](https://sammeechward.com).
+This code is associated with my [Advent Calendar 2018 Project](https://www.sammeechward.com/youtube-projects/advent-calendar-2018).
 And the [Advent Calendar 2018 Code](https://github.com/Sam-Meech-Ward/Advent_Calendar_2018)
 
 This module syncs the date and time to whichever device requests it, in this case, an Arduino.
